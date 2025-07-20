@@ -20,26 +20,26 @@ This project demonstrates real-world skills in:
 ## 📊 Confusion Matrix
 
 ### Random Forest:
-![RF CM](output\random_forest_confusion_matrix.png)
+![RF CM](output/random_forest_confusion_matrix.png)
 
 ### Logistic Regression:
-![LR CM](output\logistic_regression_confusion_matrix.png)
+![LR CM](output/logistic_regression_confusion_matrix.png)
 
 ---
 
 ## 📉 ROC Curve & AUC Score
 
 ### Random Forest:
-![RF ROC](output\random_forest_roc_curve.png)
+![RF ROC](output/random_forest_roc_curve.png)
 
 ### Logistic Regression:
-![LR ROC](output\logistic_regression_roc_curve.png)
+![LR ROC](output/logistic_regression_roc_curve.png)
 
 ---
 
 ## 📊 Model Accuracy Comparison
 
-![Model Comparison](output\model_accuracy_comparison.png)
+![Model Comparison](output/model_accuracy_comparison.png)
 
 
 ## 📊 Demo
