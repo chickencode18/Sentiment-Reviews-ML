@@ -13,7 +13,25 @@ This project demonstrates real-world skills in:
 
 ## 📋 Classification Reports
 
-- Được in ra console khi train mô hình.
+Randomforest:
+              precision    recall  f1-score   support
+
+           0      0.902     0.801     0.849     11828
+           1      0.947     0.976     0.961     43003
+
+    accuracy                          0.938     54831
+   macro avg      0.925     0.889     0.905     54831
+weighted avg      0.937     0.938     0.937     54831
+
+Logistic:
+              precision    recall  f1-score   support
+
+           0      0.672     0.889     0.766     11828
+           1      0.967     0.881     0.922     43003
+
+    accuracy                          0.883     54831
+   macro avg      0.819     0.885     0.844     54831
+weighted avg      0.903     0.883     0.888     54831
 
 ---
 
