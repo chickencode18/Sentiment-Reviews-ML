@@ -13,7 +13,9 @@ This project demonstrates real-world skills in:
 
 ## 📋 Classification Reports
 
-### Randomforest:
+### 🔷 Random Forest - Classification Report
+
+```
               precision    recall  f1-score   support
 
            0      0.902     0.801     0.849     11828
