@@ -24,8 +24,9 @@ This project demonstrates real-world skills in:
     accuracy                          0.938     54831
    macro avg      0.925     0.889     0.905     54831
 weighted avg      0.937     0.938     0.937     54831
-
+```
 ### Logistic:
+```
               precision    recall  f1-score   support
 
            0      0.672     0.889     0.766     11828
@@ -34,6 +35,7 @@ weighted avg      0.937     0.938     0.937     54831
     accuracy                          0.883     54831
    macro avg      0.819     0.885     0.844     54831
 weighted avg      0.903     0.883     0.888     54831
+```
 
 ---
 
