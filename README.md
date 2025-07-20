@@ -61,8 +61,8 @@ git clone https://github.com/chickencode18/Sentiment-Reviews-ML.git
 pip install -r requirements.txt
 
 # Model:
-  - [Randomforest]: (https://drive.google.com/file/d/16VkEjP1CYK9yWTKiyecCN44BcffcZHVj/view?usp=sharing)
-  - [Logistic]: https://drive.google.com/file/d/1DIP24BFVVWgC2c0NCp75bE1RxlbXGvTd/view?usp=sharing
+- [🔗 Random Forest Model (.pkl)](https://drive.google.com/file/d/16VkEjP1CYK9yWTKiyecCN44BcffcZHVj/view?usp=sharing)
+- [🔗 Logistic Regression Model (.pkl)](https://drive.google.com/file/d/1DIP24BFVVWgC2c0NCp75bE1RxlbXGvTd/view?usp=sharing)
 
 # Run Streamlit Web App
 streamlit run app.py
