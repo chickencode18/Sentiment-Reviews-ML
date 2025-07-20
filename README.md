@@ -13,7 +13,7 @@ This project demonstrates real-world skills in:
 
 ## 📋 Classification Reports
 
-### 🔷 Random Forest - Classification Report
+### Random Forest
 
 ```
               precision    recall  f1-score   support
