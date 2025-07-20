@@ -13,7 +13,7 @@ This project demonstrates real-world skills in:
 
 ## 📋 Classification Reports
 
-Randomforest:
+### Randomforest:
               precision    recall  f1-score   support
 
            0      0.902     0.801     0.849     11828
@@ -23,7 +23,7 @@ Randomforest:
    macro avg      0.925     0.889     0.905     54831
 weighted avg      0.937     0.938     0.937     54831
 
-Logistic:
+### Logistic:
               precision    recall  f1-score   support
 
            0      0.672     0.889     0.766     11828
